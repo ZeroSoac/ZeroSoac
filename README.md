@@ -1,47 +1,47 @@
 <div align="center">
 
 # Ivanizio Rodrigues 🚀
-### Engenheiro Mecatrônico | AI Solutions & Game Dev
+### Engenharia Mecatrônica | AI & Game Development
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ivanizio-rodrigues"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://zerosoac.itch.io"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=flat-square&logo=itch.io&logoColor=white" alt="Itch.io" /></a>
+  <a href="mailto:ivanizio.rodrigues@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
 </div>
 
-Sou engenheiro mecatrônico de formação e hoje trabalho unindo lógica de engenharia com Inteligência Artificial aplicada. Minha especialidade é atuar na direção e operação técnica de ferramentas de IA para conceber, acelerar e entregar soluções completas — desde arquitetura de jogos até automações empresariais.
+---
 
-Ao invés de passar meses preso em sintaxe básica, utilizo modelos de linguagem, agentes e fluxos assistidos por IA para transformar ideias em software funcional e testável de ponta a ponta.
+### ⚡ Sobre mim
+
+Sou engenheiro mecatrônico de formação e utilizo ferramentas de IA no dia a dia como motor de desenvolvimento. Aplico raciocínio lógico de engenharia junto com modelos de linguagem e agentes para construir soluções completas em tempo recorde, focando no que realmente importa: arquitetura sólida, produto funcional e teste prático.
 
 ---
 
-### 🎮 O que estou construindo
+### 🎮 Projetos em destaque
 
-♟️ **Chess Tactics (Xadrez Tático)**
-RPG tático isométrico 2.5D onde o foco foi criar um sistema de tomada de decisão inteligente para o oponente, simulando táticas reais de xadrez com árvore de busca, gestão de perigo e regras próprias.
-* Demo jogável disponível no Itch.io: https://zerosoac.itch.io/chess-tactics
+#### ♟️ Chess Tactics (Xadrez Tático)
+RPG tático isométrico 2.5D com sistema próprio de tomada de decisão para o oponente. O projeto foi construído combinando árvores de busca, cálculo de perigo em tempo real e regras customizadas de combate para criar uma IA desafiadora.
+* 🔗 [Jogar demo no Itch.io](https://zerosoac.itch.io/chess-tactics)
 
-🤖 **Automações, Agentes & Document Intelligence**
-Desenvolvimento de robôs operacionais e pipelines para extrair dados estruturados de documentos complexos (como PDFs desformatados) usando LLMs (Gemini API), scripts em Python e interfaces ágeis em Streamlit.
-* Repositórios e estudos de caso sendo organizados e disponibilizados aqui no perfil.
-
----
-
-### 🛠️ Tecnologias & Ferramentas
-
-⚡ **Inteligência Artificial & Automação**
-Operação de LLMs, Engenharia de Contexto, Agentes Autônomos, Integração de APIs (Gemini, Ollama), Automação de Rotinas e Dados.
-
-🕹️ **Desenvolvimento & Lógica**
-Python, TypeScript, PixiJS, Streamlit, Godot Engine, Arquitetura de Sistemas.
-
-⚙️ **Engenharia & Hardware**
-Bancadas de Teste, Análise Técnica, Automação Mecatrônica.
+#### 🤖 Robôs de IA & Extração de Documentos
+Pipelines em Python para leitura e tratamento de dados em PDFs desformatados e relatórios complexos. O sistema integra a API do Gemini para estruturar saídas determinísticas e entrega uma interface limpa em Streamlit para o usuário final.
+* 📁 Repositórios e demonstrações práticas em organização aqui no perfil.
 
 ---
 
-### 📬 Contato & Redes
+### 🛠️ Tecnologias e ferramentas
 
-💼 **LinkedIn:** https://www.linkedin.com/in/ivanizio-rodrigues
+* ⚡ **Inteligência Artificial:** Integração de LLMs via API (Gemini, Ollama), Agentes, Extração Estruturada de Dados.
+* 🕹️ **Desenvolvimento:** Python, TypeScript, PixiJS, Streamlit, Godot Engine.
+* ⚙️ **Engenharia:** Automação, Bancadas de Teste, Validação Técnica.
 
-🎮 **Itch.io:** https://zerosoac.itch.io
+---
 
-✉️ **Email Profissional:** ivanizio.rodrigues@gmail.com
+### 📬 Contatos
 
-🚀 **Zero Studios IA:** zerostudiosia@gmail.com
+* 💼 **LinkedIn:** [ivanizio-rodrigues](https://www.linkedin.com/in/ivanizio-rodrigues)
+* 🎮 **Jogos & Demos:** [zerosoac.itch.io](https://zerosoac.itch.io)
+* ✉️ **Pessoal:** ivanizio.rodrigues@gmail.com
+* 🚀 **Zero Studios IA:** zerostudiosia@gmail.com
