@@ -1,7 +1,7 @@
 <div align="center">
 
 # Ivanizio Rodrigues 🚀
-### Engenharia Mecatrônica | AI & Game Development
+### Engenharia Mecatrônica | AI Solutions & Game Development
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ivanizio-rodrigues"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -15,33 +15,37 @@
 
 ### ⚡ Sobre mim
 
-Sou engenheiro mecatrônico de formação e utilizo ferramentas de IA no dia a dia como motor de desenvolvimento. Aplico raciocínio lógico de engenharia junto com modelos de linguagem e agentes para construir soluções completas em tempo recorde, focando no que realmente importa: arquitetura sólida, produto funcional e teste prático.
+Engenheiro mecatrônico de formação focado em transformar gargalos operacionais e ideias em software funcional. Utilizo Inteligência Artificial aplicada no fluxo de trabalho diário para projetar arquiteturas, acelerar o desenvolvimento e entregar soluções completas em tempo recorde, priorizando sempre estabilidade, teste prático e resultado de negócio.
 
 ---
 
-### 🎮 Projetos em destaque
+### 🚀 Projetos em destaque
 
 #### ♟️ Chess Tactics (Xadrez Tático)
-RPG tático isométrico 2.5D com sistema próprio de tomada de decisão para o oponente. O projeto foi construído combinando árvores de busca, cálculo de perigo em tempo real e regras customizadas de combate para criar uma IA desafiadora.
-* 🔗 [Jogar demo no Itch.io](https://zerosoac.itch.io/chess-tactics)
+RPG tático isométrico 2.5D com motor próprio de tomada de decisão para o oponente. O sistema simula táticas avançadas de xadrez combinando árvores de busca, cálculo de perigo em tempo real e regras dinâmicas de combate em grade.
+* **Stack:** TypeScript, PixiJS, Python, Godot Engine
+* 🎮 [Jogar demonstração no Itch.io](https://zerosoac.itch.io/chess-tactics)
 
-#### 🤖 Robôs de IA & Extração de Documentos
-Pipelines em Python para leitura e tratamento de dados em PDFs desformatados e relatórios complexos. O sistema integra a API do Gemini para estruturar saídas determinísticas e entrega uma interface limpa em Streamlit para o usuário final.
-* 📁 Repositórios e demonstrações práticas em organização aqui no perfil.
+#### ⚡ Ecossistema de Automações & Agentes com IA
+Conjunto modular de robôs operacionais e pipelines desenvolvidos em Python para resolver dores comerciais e financeiras:
+* **Robô de WhatsApp 24/7:** Atendimento comercial com suporte a voz, emissão de propostas em PDF e minutas de contrato com validação criptográfica (SHA-256).
+* **Extrator Fiscal Multimodal:** Leitura em lote de notas fiscais, recibos e extratos com geração automática de planilhas executivas auditadas no Excel.
+* **Gestão de Operações & Orçamentos:** Sistemas para escalas de plantão 12x36, orçamentos automáticos para construção civil e sincronização assíncrona de Google Sheets.
+* 📁 [Acessar repositório das automações](https://github.com/ivanizio-rodrigues/automacoes-ia-showcase)
 
 ---
 
 ### 🛠️ Tecnologias e ferramentas
 
-* ⚡ **Inteligência Artificial:** Integração de LLMs via API (Gemini, Ollama), Agentes, Extração Estruturada de Dados.
-* 🕹️ **Desenvolvimento:** Python, TypeScript, PixiJS, Streamlit, Godot Engine.
-* ⚙️ **Engenharia:** Automação, Bancadas de Teste, Validação Técnica.
+* ⚡ **Inteligência Artificial:** Integração de LLMs via API, Engenharia de Contexto, Agentes Autônomos, Visão Computacional.
+* 🕹️ **Desenvolvimento de Software:** Python, TypeScript, PixiJS, Streamlit, FastAPI, SQLite.
+* ⚙️ **Engenharia & Dados:** Automação Mecatrônica, Validação de Dados, Bancadas de Teste e Modelagem Operacional.
 
 ---
 
 ### 📬 Contatos
 
 * 💼 **LinkedIn:** [ivanizio-rodrigues](https://www.linkedin.com/in/ivanizio-rodrigues)
-* 🎮 **Jogos & Demos:** [zerosoac.itch.io](https://zerosoac.itch.io)
-* ✉️ **Pessoal:** ivanizio.rodrigues@gmail.com
-* 🚀 **Zero Studios IA:** zerostudiosia@gmail.com
+* 🎮 **Jogos & Portfólio:** [zerosoac.itch.io](https://zerosoac.itch.io)
+* ✉️ **Comercial:** ivanizio.rodrigues@gmail.com
+* 🚀 **Estúdio:** zerostudiosia@gmail.com
